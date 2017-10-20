@@ -1,0 +1,17 @@
+{
+  "name": "rduk-cache-store-redis",
+  "version": "0.0.1",
+  "description": "redis cache store",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kim Ung <k.ung@rduk.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "3.5.1",
+    "rduk-cache": "0.0.1",
+    "rduk-errors": "1.2.3",
+    "redis": "2.8.0"
+  }
+}
