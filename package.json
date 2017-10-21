@@ -1,6 +1,6 @@
 {
   "name": "rduk-cache-store-redis",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "redis cache store",
   "main": "lib/index.js",
   "scripts": {
